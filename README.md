@@ -7,7 +7,7 @@ This project is a **Machine Learning web application** built with **Streamlit** 
 ## 🚀 Live Demo
 
 👉 *(Add your Streamlit link here after deployment)*
-Example: https://your-app.streamlit.app
+Example: https://churnappapp-fbdhuvdqgv36zsxfrnevb7.streamlit.app/
 
 ---
 
