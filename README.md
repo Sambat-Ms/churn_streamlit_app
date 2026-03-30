@@ -6,8 +6,7 @@ This project is a **Machine Learning web application** built with **Streamlit** 
 
 ## 🚀 Live Demo
 
-👉 *(Add your Streamlit link here after deployment)*
-Example: https://churnappapp-fbdhuvdqgv36zsxfrnevb7.streamlit.app/
+👉 * Streamlit link here* https://churnappapp-fbdhuvdqgv36zsxfrnevb7.streamlit.app/
 
 ---
 
@@ -92,8 +91,8 @@ churn-app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/churn-streamlit-app.git
-cd churn-streamlit-app
+git clone https://github.com/Sambat-Ms/churn_streamlit_app.git
+cd churn_streamlit_app
 ```
 
 2. Install dependencies:
@@ -129,9 +128,5 @@ This app is deployed using **Streamlit Cloud**.
 
 **Sambat**
 
----
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share it!
 
